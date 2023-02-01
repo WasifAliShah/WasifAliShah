@@ -19,8 +19,8 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
     </a>
 </p>
 ## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="abdullahqaisar" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WasifAliShah&theme=algolia"
+        alt="WasifAliShah" /></p>
 ## 🛠️ My Skills
 <p>
     <summary><b>Languages</b></summary>
@@ -70,6 +70,7 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
 </p>
+
 ## 📊 Github Stats
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wasif's Github Stats"
