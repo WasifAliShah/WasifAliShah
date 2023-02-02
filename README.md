@@ -18,9 +18,11 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
+
 ## 🔥 Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WasifAliShah&theme=algolia"
         alt="WasifAliShah" /></p>
+        
 ## 🛠️ My Skills
 <p>
     <summary><b>Languages</b></summary>
