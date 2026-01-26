@@ -89,92 +89,91 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
     experience or skill level.
 </p> -->
 
+<!-- Dark Aesthetic Animated GitHub Profile README -->
+
 <h1 align="center">
-Hi, I'm Wasif Ali Shah 👋
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Ali+Shah;MERN+Stack+Developer;Computer+Science+Undergraduate;Future+AI+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-Computer Science Undergraduate • MERN Stack Developer • Lifelong Learner
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I am a Computer Science undergraduate at **Air University, Islamabad**, with a strong interest in **full-stack web development** and modern software engineering practices. I primarily work with the **MERN stack** and have gained hands-on experience through academic projects, internships, and self-driven learning.
+I am a **Computer Science undergraduate at Air University, Islamabad**, passionate about building **modern, scalable, and user-focused applications**.
 
-I enjoy building scalable, user-centric applications, exploring new technologies, and continuously improving my problem-solving skills. Alongside development, I have a creative side and enjoy capturing the beauty of clouds and the sky through photography.
+My primary expertise lies in **full-stack web development (MERN stack)**, with hands-on experience gained through academic projects, internships, and continuous self-learning. I enjoy solving real-world problems, exploring emerging technologies, and writing clean, maintainable code.
+
+Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and atmospheric visuals**, which often inspire my design aesthetics.
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/wasif-shah-89439625a/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:shahwasif2003@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/WasifAliShah" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+  <a href="https://www.linkedin.com/in/wasif-shah-89439625a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shahwasif2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://github.com/WasifAliShah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WasifAliShah&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=WasifAliShah&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark" />
 </p>
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,materialui&theme=dark" />
 </p>
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WasifAliShah&show_icons=true&count_private=true&theme=algolia" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifAliShah&layout=compact&theme=algolia" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WasifAliShah&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasifAliShah&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
-> **Note:** Top languages reflect public repository content and do not directly represent overall experience or expertise.
+---
+
+## 🚀 Currently Focused On
+- Advanced MERN architecture & best practices  
+- Backend performance & scalability  
+- AI-assisted development & ML fundamentals  
 
 ---
 
-## 🚀 Currently Exploring
-- Advanced MERN patterns  
-- Scalable backend architectures  
-- AI-assisted development tools  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
+</p>
 
----
-
-⭐ *Feel free to explore my repositories and connect with me — I’m always open to collaboration and learning opportunities.*
-
+<p align="center">
+  <i>"Building today what scales tomorrow."</i>
+</p>
