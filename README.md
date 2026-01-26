@@ -105,15 +105,9 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
 
 I am a **Computer Science undergraduate at Air University, Islamabad**, passionate about building **modern, scalable, and user-focused applications**.  
 
-I have strong expertise in **full-stack web development (MERN stack)** and enjoy creating responsive, high-quality web applications. Alongside web development, I am actively exploring **Artificial Intelligence, Machine Learning, and Deep Learning**, with a keen interest in **Computer Vision**.  
+I have strong expertise in **full-stack web development (MERN stack)** and enjoy creating responsive, high-quality web applications. Alongside web development, I am actively exploring **Artificial Intelligence, Machine Learning, and Deep Learning**, with a keen interest in **Computer Vision** and related technologies.  
 
-I am a proactive learner who loves solving real-world problems, exploring emerging technologies, and continuously improving my skills.  
-
-In my free time, I enjoy **gaming** and connecting with other players on Steam:  
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOUR_STEAM_ID_HERE)
-
-Beyond coding and gaming, I have a creative eye and enjoy capturing **clouds, skies, and atmospheric visuals**, which often inspire my design aesthetics.
-
+I am a proactive learner who loves solving real-world problems, exploring emerging technologies, and continuously improving my skills. Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and atmospheric visuals**, which often inspire my design aesthetics.
 
 ---
 
