@@ -152,7 +152,7 @@ Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and at
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,PostgreSQL&theme=dark" />
 </p>
 
 ---
