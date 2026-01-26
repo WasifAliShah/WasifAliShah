@@ -142,7 +142,10 @@ Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and at
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,csharp,js,python&theme=dark" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" title="C++"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" title="Python"/>
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" title="C#"/>
 </p>
 
 ### 🎨 Frontend
