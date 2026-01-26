@@ -142,7 +142,16 @@ Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and at
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,csharp,php,js,python&theme=dark" />
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" title="C#"/>
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" title="PHP"/>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
 </p>
 
 ### 🎨 Frontend
