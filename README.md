@@ -118,12 +118,12 @@ Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and at
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:shahwasif2003@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+ <a href="mailto:shahwasif2003@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WasifAliShah" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
   </a>
 </p>
 
