@@ -157,6 +157,11 @@ Passionate about combining software engineering, data analytics, and AI to build
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet,mongodb,mysql,postgres,git&theme=dark" />
 </p>
 
+### 📊 Data & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,numpy,sklearn,docker&theme=dark" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
