@@ -92,7 +92,7 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
 <!-- Dark Aesthetic Animated GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Ali+Shah;MERN+Stack+Developer;Computer+Science+Undergraduate;Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Ali+Shah;Backend+Engineer;Data & AI Systems;Computer+Science+Undergraduate" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -103,11 +103,13 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
 
 ## 🧠 About Me
 
-I am a **Computer Science undergraduate at Air University, Islamabad**, passionate about building **modern, scalable, and user-focused applications**.  
+Computer Science undergraduate and Backend Engineer focused on building scalable backend systems and data-driven applications.
 
-I have strong expertise in **full-stack web development (MERN stack)** and enjoy creating responsive, high-quality web applications. Alongside web development, I am actively exploring **Artificial Intelligence, Machine Learning, and Deep Learning**, with a keen interest in **Computer Vision** and related technologies.  
+Experienced in designing RESTful APIs, database-driven architectures, and performance-optimized backend modules using Laravel, Node.js, .NET, SQL, and MongoDB. Hands-on experience developing ETL pipelines, deploying machine learning models with FastAPI, and optimizing system workflows in enterprise environments.
 
-I am a proactive learner who loves solving real-world problems, exploring emerging technologies, and continuously improving my skills. Beyond coding, I have a creative eye and enjoy capturing **clouds, skies, and atmospheric visuals**, which often inspire my design aesthetics.
+Projects include production-level platforms adopted by organizations, automation systems integrating third-party APIs, and deep learning models achieving high-accuracy benchmarks.
+
+Passionate about combining software engineering, data analytics, and AI to build systems that are scalable, efficient, and impact-focused.
 
 ---
 
