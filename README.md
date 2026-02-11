@@ -144,7 +144,7 @@ Passionate about combining software engineering, data analytics, and AI to build
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dotnet,php,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,dotnet,php,python&theme=dark" />
 </p>
 
 ### 🎨 Frontend
