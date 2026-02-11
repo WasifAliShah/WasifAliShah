@@ -159,7 +159,7 @@ Passionate about combining software engineering, data analytics, and AI to build
 
 ### 📊 Data & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,docker&theme=dark" />
 </p>
 
 ---
