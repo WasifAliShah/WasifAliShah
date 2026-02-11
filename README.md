@@ -154,7 +154,7 @@ Passionate about combining software engineering, data analytics, and AI to build
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet,mongodb,mysql,postgres,git&theme=dark" />
 </p>
 
 ---
