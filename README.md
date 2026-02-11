@@ -92,7 +92,7 @@ Hi there! 👋 My name is Wasif and I am a second-year computer science student 
 <!-- Dark Aesthetic Animated GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Ali+Shah;Backend+Engineer;Computer+Science+Undergraduate;Future+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Wasif+Ali+Shah;Backend+Engineer;Data+&+Analytics;Future+AI+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
