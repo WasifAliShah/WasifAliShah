@@ -154,7 +154,7 @@ Passionate about combining software engineering, data analytics, and AI to build
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,pandas&theme=dark" />
 </p>
 
 ---
@@ -169,9 +169,9 @@ Passionate about combining software engineering, data analytics, and AI to build
 ---
 
 ## 🚀 Currently Focused On
-- Advanced MERN architecture & best practices  
-- Backend performance & scalability  
-- AI-assisted development & ML fundamentals  
+- Backend system architecture & performance optimization 
+- Data engineering & ETL workflows 
+- Applied Machine Learning & model deployment 
 
 ---
 
